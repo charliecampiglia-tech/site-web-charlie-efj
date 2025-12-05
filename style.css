@@ -1,0 +1,32 @@
+#title {
+    color: rgb(96, 168, 255);
+    margin: 0%;
+    width: 25%;
+} 
+div {
+    color: rgb(36, 37, 30);
+    background-color: #93affc;
+    font-size: medium;
+}
+.division {
+    background-color: rgb(55, 68, 212);
+}
+
+.btn-blue {
+    background-color: rgb(60, 96, 159);
+    color: aliceblue;
+    font-weight: 900;
+    text-decoration: none;
+    padding: 14px;
+    border: 1px;
+    border-radius: 60px;
+
+}
+
+.soustitre{
+    color: aliceblue;
+    background-color: #6c98ee;
+}
+img{
+    width: 25%;
+}
